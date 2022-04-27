@@ -1,0 +1,8 @@
+com/example/pra_3/BuildConfig.java
+ com.example.pra_3.BuildConfig
+com/example/pra_3/MainActivity2.java
+ com.example.pra_3.MainActivity2
+ com.example.pra_3.MainActivity2$1
+com/example/pra_3/MainActivity.java
+ com.example.pra_3.MainActivity
+ com.example.pra_3.MainActivity$1
